@@ -1,0 +1,11 @@
+BST,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees
+2015-4-1,12,8,4,7,1,-2,93,62,32,1025,1022,1017,31,17,5,35,26,52,0.51,3,Rain,267
+2015-4-2,12,9,6,8,3,-1,96,70,30,1023,1020,1014,31,13,5,32,18,,0.00,5,Rain,285
+2015-4-3,12,9,7,11,8,5,100,90,70,1022,1016,1014,26,8,2,14,11,,2.03,6,Rain,151
+2015-4-4,10,8,7,9,5,3,100,77,56,1026,1022,1018,31,13,2,27,10,,0.00,6,Rain,12
+2015-4-5,13,9,6,6,4,3,87,70,43,1030,1027,1025,31,14,10,11,6,,0.00,5,Rain,71
+2015-4-6,17,9,2,8,5,2,100,74,41,1036,1032,1030,31,13,6,24,8,,0.00,2,,1
+2015-4-7,18,11,3,7,5,2,93,65,35,1038,1036,1034,31,18,10,13,6,,0.00,1,,281
+2015-4-8,18,12,6,9,6,4,93,67,39,1035,1032,1030,18,10,6,21,6,,0.00,2,,183
+2015-4-9,18,11,5,8,6,4,100,70,29,1030,1027,1023,14,7,0,16,8,,0.00,3,Fog,99
+2015-4-10,21,13,6,7,6,3,87,60,22,1024,1018,1014,29,10,4,23,10,,0.00,1,Rain,151
